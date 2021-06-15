@@ -24,6 +24,7 @@ from gensim.corpora import Dictionary
 from nltk.stem import WordNetLemmatizer
 import tensorflow as tf
 
+
 #                                    #
 #----------- Instructions -----------#
 #                                    #
